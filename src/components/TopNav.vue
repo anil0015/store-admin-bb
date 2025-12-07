@@ -40,7 +40,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #333;
+  /* CHANGED: Best Buy Blue */
+  background-color: #0046be;
   color: #fff;
   padding-top: 0.5rem;
   padding-left: 1rem;
@@ -117,7 +118,8 @@ nav img {
     top: 100%;
     left: 0;
     right: 0;
-    background-color: #333;
+    /* CHANGED: Best Buy Blue */
+    background-color: #0046BE;
     padding: 1rem;
   }
 
